@@ -1,0 +1,274 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* WakkaWakka */ = {
+		activeExec = 0;
+		executables = (
+			C7B527F70FE7DA7000D8162B /* WakkaWakka */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C7B527F70FE7DA7000D8162B /* WakkaWakka */;
+		activeSDKPreference = iphoneos2.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WakkaWakka */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* WakkaWakka */,
+		);
+		codeSenseManager = C7B528080FE7DA8D00D8162B /* Code sense */;
+		executables = (
+			C7B527F70FE7DA7000D8162B /* WakkaWakka */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					645,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 267846356;
+			PBXWorkspaceStateSaveDate = 267846356;
+		};
+		perUserProjectItems = {
+			C7B5280E0FE7DAF700D8162B /* PlistBookmark */ = C7B5280E0FE7DAF700D8162B /* PlistBookmark */;
+			C7B528360FE7DBB600D8162B /* PBXTextBookmark */ = C7B528360FE7DBB600D8162B /* PBXTextBookmark */;
+			C7B528370FE7DBB600D8162B /* PBXTextBookmark */ = C7B528370FE7DBB600D8162B /* PBXTextBookmark */;
+			C7F352510FF038AA00B3A023 /* PBXTextBookmark */ = C7F352510FF038AA00B3A023 /* PBXTextBookmark */;
+			C7F352520FF038AA00B3A023 /* PBXTextBookmark */ = C7F352520FF038AA00B3A023 /* PBXTextBookmark */;
+			C7F352530FF038AA00B3A023 /* PBXTextBookmark */ = C7F352530FF038AA00B3A023 /* PBXTextBookmark */;
+			C7F352540FF038AA00B3A023 /* PBXTextBookmark */ = C7F352540FF038AA00B3A023 /* PBXTextBookmark */;
+			C7F352570FF038AA00B3A023 /* PBXTextBookmark */ = C7F352570FF038AA00B3A023 /* PBXTextBookmark */;
+			C7F352580FF038AA00B3A023 /* PBXTextBookmark */ = C7F352580FF038AA00B3A023 /* PBXTextBookmark */;
+			C7F3525B0FF038AA00B3A023 /* PBXTextBookmark */ = C7F3525B0FF038AA00B3A023 /* PBXTextBookmark */;
+			C7F3525C0FF038AA00B3A023 /* PBXTextBookmark */ = C7F3525C0FF038AA00B3A023 /* PBXTextBookmark */;
+			C7F7E3E20FF416F9000F29D7 /* PlistBookmark */ = C7F7E3E20FF416F9000F29D7 /* PlistBookmark */;
+			C7F7E50A0FF702D6000F29D7 /* PlistBookmark */ = C7F7E50A0FF702D6000F29D7 /* PlistBookmark */;
+		};
+		sourceControlManager = C7B528070FE7DA8D00D8162B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	C7B527F70FE7DA7000D8162B /* WakkaWakka */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WakkaWakka;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	C7B528010FE7DA8D00D8162B /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 1330}}";
+			sepNavSelRange = "{724, 149}";
+			sepNavVisRange = "{191, 1135}";
+		};
+	};
+	C7B528020FE7DA8D00D8162B /* SoundEffect.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 686}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1108}";
+		};
+	};
+	C7B528030FE7DA8D00D8162B /* SoundEffect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 440}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	C7B528040FE7DA8D00D8162B /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 440}}";
+			sepNavSelRange = "{134, 154}";
+			sepNavVisRange = "{0, 295}";
+		};
+	};
+	C7B528070FE7DA8D00D8162B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C7B528080FE7DA8D00D8162B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C7B5280E0FE7DAF700D8162B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WakkaWakka-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Volumes/Users/hnager/Documents/iphone/WakkaWakka/WakkaWakka-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C7B528360FE7DBB600D8162B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 11";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	C7B528370FE7DBB600D8162B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 11";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	C7F352510FF038AA00B3A023 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C7B528010FE7DA8D00D8162B /* AppController.m */;
+		name = "AppController.m: 32";
+		rLen = 149;
+		rLoc = 724;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 191;
+	};
+	C7F352520FF038AA00B3A023 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C7B528040FE7DA8D00D8162B /* AppController.h */;
+		name = "AppController.h: 10";
+		rLen = 154;
+		rLoc = 134;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 0;
+	};
+	C7F352530FF038AA00B3A023 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C7B528030FE7DA8D00D8162B /* SoundEffect.h */;
+		name = "SoundEffect.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	C7F352540FF038AA00B3A023 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C7B528020FE7DA8D00D8162B /* SoundEffect.m */;
+		name = "SoundEffect.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 0;
+	};
+	C7F352570FF038AA00B3A023 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C7B528010FE7DA8D00D8162B /* AppController.m */;
+		name = "AppController.m: 64";
+		rLen = 1075;
+		rLoc = 1596;
+		rType = 0;
+		vrLen = 1115;
+		vrLoc = 411;
+	};
+	C7F352580FF038AA00B3A023 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C7B528040FE7DA8D00D8162B /* AppController.h */;
+		name = "AppController.h: 10";
+		rLen = 154;
+		rLoc = 134;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 0;
+	};
+	C7F3525B0FF038AA00B3A023 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C7B528030FE7DA8D00D8162B /* SoundEffect.h */;
+		name = "SoundEffect.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	C7F3525C0FF038AA00B3A023 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C7B528020FE7DA8D00D8162B /* SoundEffect.m */;
+		name = "SoundEffect.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 0;
+	};
+	C7F7E3E20FF416F9000F29D7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WakkaWakka-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarStyle,
+		);
+		name = "/Volumes/Users/hnager/Documents/iphone/WakkaWakka/WakkaWakka-Info.plist";
+		rLen = 18;
+		rLoc = 0;
+	};
+	C7F7E50A0FF702D6000F29D7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WakkaWakka-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarStyle,
+		);
+		name = "/Volumes/Users/hnager/Documents/iphone/WakkaWakka/WakkaWakka-Info.plist";
+		rLen = 18;
+		rLoc = 0;
+	};
+}

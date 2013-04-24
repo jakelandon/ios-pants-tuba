@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Default.png</key>
+		<data>
+		UKbQdz2AsMmoOuCJJFKhn4ncXDQ=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>eating ghosts.wav</key>
+		<data>
+		7lnVP0innoqFfsN7piMHavrNxd8=
+		</data>
+		<key>eating.short.wav</key>
+		<data>
+		6BMqqri4drTtXlDykMAO52YX/uA=
+		</data>
+		<key>eating.wav</key>
+		<data>
+		WZ8j5JzgjX+piUEjIFjdHednmeU=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		QvOiXmyGzBkbx1ba/bkt/Ytj65A=
+		</data>
+		<key>icon.png</key>
+		<data>
+		J8b2Al8IiZPeSC4YmivTgvxa65Y=
+		</data>
+		<key>opening song.wav</key>
+		<data>
+		FKSSkqwmfThz0XuJ3R0wkFrAixo=
+		</data>
+		<key>siren.wav</key>
+		<data>
+		pmnVGrqSgBP7v1tnL47GkqJ1gQw=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
